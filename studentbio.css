@@ -1,0 +1,24 @@
+/**
+* student bio
+**/
+
+h1{
+    padding: 25px;
+    margin-bottom: 30px;
+    color: lightpink;
+    text-align: center;
+}
+
+h2{
+    padding: 20px;
+    margin-bottom; 15px;
+    color: gray;
+    text-align: center;
+}
+
+br{
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    float: right;
+}
